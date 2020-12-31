@@ -1,0 +1,873 @@
+# <!=Copyright (C) 2018 Themeshopy
+# This file is distributed under the GNU General Public License.=!>
+msgid ""
+msgstr ""
+"Project-Id-Version: Advance Ecommerce Store 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2020-09-18 14:40+0530\n"
+"Language-Team: \n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;"
+"_nx_noop:1,2,3c;esc_attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;"
+"esc_html_x:1,2c\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Generator: Poedit 2.4.1\n"
+"POT-Creation-Date: \n"
+"Last-Translator: \n"
+"Language: ru\n"
+"X-Poedit-SearchPath-0: ../../advance-ecommerce-store\n"
+
+#: 404.php:13 inc/customizer.php:995
+msgid "404 Not Found"
+msgstr "404 Не Найдено"
+
+#: 404.php:14 inc/customizer.php:1005
+msgid ""
+"Looks like you have taken a wrong turn&hellip. Dont worry&hellip it happens "
+"to the best of us."
+msgstr ""
+"Похоже, вы приняли неправильный поворот и ад. Не волнуйся, и это случится с "
+"лучшими из нас."
+
+#: 404.php:17 inc/customizer.php:1015
+msgid "Back to Home Page"
+msgstr "Вернуться на главную страницу"
+
+#: archive.php:38 archive.php:66 archive.php:96 archive.php:124 archive.php:154
+#: archive.php:184 archive.php:215 image.php:38 image.php:66 image.php:96
+#: image.php:124 image.php:154 image.php:184 image.php:215 index.php:39
+#: index.php:63 index.php:89 index.php:113 index.php:139 index.php:164
+#: index.php:187 search.php:36 search.php:62 search.php:90 search.php:116
+#: search.php:144 search.php:172 search.php:201
+msgid "Previous page"
+msgstr "Предыдущая страница"
+
+#: archive.php:39 archive.php:67 archive.php:97 archive.php:125 archive.php:155
+#: archive.php:185 archive.php:216 image.php:39 image.php:67 image.php:97
+#: image.php:125 image.php:155 image.php:185 image.php:216 index.php:40
+#: index.php:64 index.php:90 index.php:114 index.php:140 index.php:165
+#: index.php:188 search.php:37 search.php:63 search.php:91 search.php:117
+#: search.php:145 search.php:173 search.php:202
+msgid "next page"
+msgstr "следущая страница"
+
+#: archive.php:40 archive.php:68 archive.php:98 archive.php:126 archive.php:157
+#: archive.php:186 archive.php:217 image.php:40 image.php:68 image.php:98
+#: image.php:126 image.php:156 image.php:186 image.php:217 index.php:41
+#: index.php:65 index.php:91 index.php:115 index.php:141 index.php:166
+#: index.php:189 search.php:38 search.php:64 search.php:92 search.php:118
+#: search.php:146 search.php:174 search.php:203
+#: template-parts/single-post.php:32
+msgid "page"
+msgstr "página"
+
+#: comments.php:28
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "Одна мысль о & ldquo;% s & rdquo;"
+
+#: comments.php:38
+msgid "comments title"
+msgstr "заголовок комментария"
+
+#: comments.php:68
+msgid "Comments are closed"
+msgstr "комментарии закрыты"
+
+#: footer.php:50
+msgid "By Themeshopy"
+msgstr "По темешопии"
+
+#: footer.php:57 footer.php:59 footer.php:61
+msgid "Scroll to Top"
+msgstr "Пролистать наверх"
+
+#: functions.php:33
+msgid "Primary Menu"
+msgstr "основное меню"
+
+#: functions.php:34 header.php:64 header.php:68
+msgid "Woocommerce Menu"
+msgstr "Woocommerce Menu"
+
+#: functions.php:35 header.php:40
+msgid "Responsive Menu"
+msgstr "Отзывчивое меню"
+
+#: functions.php:68
+msgid ""
+"Thank you for choosing ThemeShopy. We are sincerely obliged to offer our "
+"best services to you. Please proceed towards welcome page and give us the "
+"privilege to serve you."
+msgstr ""
+"Спасибо за выбор ThemeShopy. Мы искренне обязаны предложить вам наши лучшие "
+"услуги. Пожалуйста, перейдите на страницу приветствия и дайте нам привилегию "
+"служить вам."
+
+#: functions.php:69
+msgid "Click here..."
+msgstr "Кликните сюда..."
+
+#: functions.php:76
+msgid "Blog Sidebar"
+msgstr "Боковая панель блога"
+
+#: functions.php:77
+msgid "Appears on blog page sidebar"
+msgstr "Появляется на боковой панели страницы блога"
+
+#: functions.php:86
+msgid "page sidebar"
+msgstr "боковая панель страницы"
+
+#: functions.php:87 functions.php:97
+msgid "Appears on page sidebar"
+msgstr "Появляется на странице боковой панели"
+
+#: functions.php:96
+msgid "Third Column Sidebar"
+msgstr "Боковая панель третьего столбца"
+
+#: functions.php:109
+msgid "Footer Nav"
+msgstr "Нижний колонтитул"
+
+#: functions.php:120
+msgid "Home Page Sidebar"
+msgstr "Домашняя страница Боковая панель"
+
+#: functions.php:121
+msgid "Appears on home page"
+msgstr "Появляется на домашней странице"
+
+#: functions.php:130
+msgid "Social Media Widget"
+msgstr "Виджет социальных сетей"
+
+#: functions.php:131
+msgid "Appears on topbar"
+msgstr "Появляется на верхней панели"
+
+#: functions.php:140
+msgid "Shop Page Sidebar"
+msgstr "Боковая панель страницы магазина"
+
+#: functions.php:150
+msgid "Single Product Page Sidebar"
+msgstr "Боковая панель одной страницы продукта"
+
+#: functions.php:141 functions.php:151
+msgid "Appears on shop page"
+msgstr "Появляется на странице магазина"
+
+#: functions.php:413
+msgid "Ecommerce Wordpress Theme"
+msgstr "Tema de Wordpress de comercio electrónico"
+
+#: header.php:33
+msgid "Skip to content"
+msgstr "перейти к содержанию"
+
+#: header.php:37
+msgid "Open Menu"
+msgstr "Открытое меню"
+
+#: header.php:54
+msgid "Close Menu"
+msgstr "Закрыть меню"
+
+#: header.php:116
+msgid "My Account"
+msgstr "Мой счет"
+
+#: header.php:128
+msgid "SHOPPING CART"
+msgstr "КОРЗИНА"
+
+#: header.php:138
+msgid "Top Menu"
+msgstr "Главное меню"
+
+#: no-results.php:11 inc/customizer.php:1233
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+#: no-results.php:14
+msgid "Ready to publish your first post? Get started here"
+msgstr "Готовы опубликовать свой первый пост? Начните здесь"
+
+#: no-results.php:16
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords"
+msgstr ""
+"Извините, но ничего не соответствует вашим условиям поиска. Пожалуйста, "
+"попытайтесь снова с другими ключевыми словами"
+
+#: no-results.php:19
+msgid "Dont worry&hellip it happens to the best of us."
+msgstr "Не волнуйся, и это случится с лучшими из нас."
+
+#: no-results.php:21
+msgid "Return to Home Page"
+msgstr "Вернуться на главную страницу"
+
+#: search.php:22 search.php:48 search.php:76 search.php:102 search.php:130
+#: search.php:158 search.php:187
+msgid "Results For: %s"
+msgstr "Результаты для:% s"
+
+#: searchform.php:11
+msgid "Search for:"
+msgstr "Ищи:"
+
+#: searchform.php:12 searchform.php:14
+msgid "Search"
+msgstr "Поиск"
+
+#: searchform.php:12
+msgid "placeholder"
+msgstr "заполнитель"
+
+#: searchform.php:14
+msgid "submit button"
+msgstr "кнопка отправки"
+
+#: sidebar.php:11
+msgid "Archives"
+msgstr "архив"
+
+#: sidebar.php:17
+msgid "Meta"
+msgstr "Мета"
+
+#: template-parts/single-post.php:26 template-parts/content.php:26
+#: template-parts/grid-layout.php:27 template-parts/content-audio.php:35
+#: template-parts/content-gallery.php:26 template-parts/content-image.php:26
+#: template-parts/content-video.php:34
+msgid "0 Comment"
+msgstr "0 комментариев"
+
+#: template-parts/image-layout.php:28
+msgid "Pages:"
+msgstr "Страницы:"
+
+#: template-parts/single-post.php:64 template-parts/image-layout.php:43
+msgid "Parent post link"
+msgstr "Родительская ссылка"
+
+#: template-parts/single-post.php:69 template-parts/image-layout.php:48
+msgid "Next"
+msgstr "следующий"
+
+#: template-parts/single-post.php:70 template-parts/image-layout.php:49
+msgid "Next post:"
+msgstr "Следующее сообщение:"
+
+#: template-parts/single-post.php:71 template-parts/image-layout.php:50
+msgid "Previous post:"
+msgstr "Предыдущий пост:"
+
+#: template-parts/single-post.php:72 template-parts/image-layout.php:51
+msgid "Previous"
+msgstr "предыдущий"
+
+#: page-template/custom-front-page.php:13
+msgid "CATEGORIES"
+msgstr "КАТЕГОРИИ"
+
+#: page-template/custom-front-page.php:82 template-parts/content.php:43
+#: template-parts/grid-layout.php:37 template-parts/content-audio.php:65
+#: template-parts/content-gallery.php:54 template-parts/content-image.php:43
+#: template-parts/content-video.php:64 inc/customizer.php:922
+msgid "READ MORE"
+msgstr "ПОДРОБНЕЕ"
+
+#: template-parts/image-layout.php:33
+msgid "Edit"
+msgstr "редактировать"
+
+#: inc/customizer.php:20
+msgid "Theme Settings"
+msgstr "Настройки темы"
+
+#: inc/customizer.php:21
+msgid "Description of what this panel does."
+msgstr "Описание того, что делает эта панель."
+
+#: inc/customizer.php:121
+msgid "Typography"
+msgstr "Типография"
+
+#: inc/customizer.php:132
+msgid "Paragraph Color"
+msgstr "Цвет абзаца"
+
+#: inc/customizer.php:146
+msgid "Paragraph Fonts"
+msgstr "Шрифты абзаца"
+
+#: inc/customizer.php:156
+msgid "Paragraph Font Size"
+msgstr "Размер шрифта абзаца"
+
+#: inc/customizer.php:168
+msgid "\"a\" Tag Color"
+msgstr "Цвет метки \"а\""
+
+#: inc/customizer.php:182
+msgid "\"a\" Tag Fonts"
+msgstr "\"a\" Tag Fonts"
+
+#: inc/customizer.php:192
+msgid "\"li\" Tag Color"
+msgstr "Цвет тега \"li\""
+
+#: inc/customizer.php:207
+msgid "\"li\" Tag Fonts"
+msgstr "теги \"li\""
+
+#: inc/customizer.php:218
+msgid "H1 Color"
+msgstr "Цвет H1"
+
+#: inc/customizer.php:232
+msgid "H1 Fonts"
+msgstr "H1 Шрифты"
+
+#: inc/customizer.php:243
+msgid "H1 Font Size"
+msgstr "Размер шрифта H1"
+
+#: inc/customizer.php:255
+msgid "H2 Color"
+msgstr "H2 Color"
+
+#: inc/customizer.php:269
+msgid "H2 Fonts"
+msgstr "H2 Fonts"
+
+#: inc/customizer.php:280
+msgid "H2 Font Size"
+msgstr "Размер шрифта H2"
+
+#: inc/customizer.php:292
+msgid "H3 Color"
+msgstr "H3 Color"
+
+#: inc/customizer.php:306
+msgid "H3 Fonts"
+msgstr "H3 Шрифты"
+
+#: inc/customizer.php:317
+msgid "H3 Font Size"
+msgstr "Размер шрифта H3"
+
+#: inc/customizer.php:329
+msgid "H4 Color"
+msgstr "Цвет H4"
+
+#: inc/customizer.php:343
+msgid "H4 Fonts"
+msgstr "H4 Шрифты"
+
+#: inc/customizer.php:354
+msgid "H4 Font Size"
+msgstr "Размер шрифта H4"
+
+#: inc/customizer.php:366
+msgid "H5 Color"
+msgstr "H5 Color"
+
+#: inc/customizer.php:380
+msgid "H5 Fonts"
+msgstr "H5 Шрифты"
+
+#: inc/customizer.php:391
+msgid "H5 Font Size"
+msgstr "Размер шрифта H5"
+
+#: inc/customizer.php:403
+msgid "H6 Color"
+msgstr "Цвет H6"
+
+#: inc/customizer.php:417
+msgid "H6 Fonts"
+msgstr "H6 Шрифты"
+
+#: inc/customizer.php:428
+msgid "H6 Font Size"
+msgstr "Размер шрифта H6"
+
+#: inc/customizer.php:435 inc/customizer.php:444
+msgid "Transparent Background"
+msgstr "Прозрачный фон"
+
+#: inc/customizer.php:440
+msgid "Background Type"
+msgstr "Тип фона"
+
+#: inc/customizer.php:443
+msgid "With Background"
+msgstr "С фоном"
+
+#: inc/customizer.php:455
+msgid "Show / Hide Related Product"
+msgstr "Показать / Скрыть связанный продукт"
+
+#: inc/customizer.php:465
+msgid "Show / Hide Product Border"
+msgstr "Показать / Скрыть Границу Продукта"
+
+#: inc/customizer.php:475
+msgid "Display Product Per Columns"
+msgstr "Показать продукт по столбцам"
+
+#: inc/customizer.php:491
+msgid "Display Product Per Page"
+msgstr "Показать продукт на странице"
+
+#: inc/customizer.php:501
+msgid "Top Bottom Product Padding"
+msgstr "Верхнее нижнее заполнение продукта"
+
+#: inc/customizer.php:516
+msgid "Right Left Product Padding"
+msgstr "Правая левая прокладка продукта"
+
+#: inc/customizer.php:531
+msgid "Product Border Radius"
+msgstr "Граница продукта"
+
+#: inc/customizer.php:546
+msgid "Product Box Shadow"
+msgstr "Продукт Коробка Тень"
+
+#: inc/customizer.php:557
+msgid "Product Button Settings"
+msgstr "Настройки кнопки продукта"
+
+#: inc/customizer.php:567
+msgid "Product Button Top Bottom Padding"
+msgstr "Настройки кнопки продукта"
+
+#: inc/customizer.php:583
+msgid "Product Button Right Left Padding"
+msgstr "Кнопка продукта справа налево"
+
+#: inc/customizer.php:598
+msgid "Product Button Border Radius"
+msgstr "Кнопка продукта Радиус границы"
+
+#: inc/customizer.php:611
+msgid "Theme Color Option"
+msgstr "Вариант цвета темы"
+
+#: inc/customizer.php:620
+msgid "One can change complete theme color on just one click."
+msgstr "Можно полностью изменить цвет темы всего одним кликом."
+
+#: inc/customizer.php:627
+msgid "Layout Settings"
+msgstr "Настройки макета"
+
+#: inc/customizer.php:637
+msgid "Show / Hide Preloader"
+msgstr "Показать / Скрыть Preloader"
+
+#: inc/customizer.php:647 inc/customizer.php:1036
+msgid "Sticky Header"
+msgstr "Липкий Заголовок"
+
+#: inc/customizer.php:657
+msgid "Show / Hide Woocommerce Page Sidebar"
+msgstr "Показать / скрыть боковую панель страницы Woocommerce"
+
+#: inc/customizer.php:667
+msgid "Show / Hide Single Product Page Sidebar"
+msgstr "Показать / скрыть одну боковую панель страницы продукта"
+
+#: inc/customizer.php:672 inc/customizer.php:681 inc/customizer.php:699
+#: inc/customizer.php:705 inc/customizer.php:714
+msgid "Right Sidebar"
+msgstr "Правая боковая панель"
+
+#: inc/customizer.php:677
+msgid "Change Layouts"
+msgstr "Изменить макеты"
+
+#: inc/customizer.php:680 inc/customizer.php:698
+msgid "Left Sidebar"
+msgstr "Левая боковая панель"
+
+#: inc/customizer.php:682 inc/customizer.php:690 inc/customizer.php:700
+msgid "One Column"
+msgstr "Одна колонна"
+
+#: inc/customizer.php:685
+msgid "Grid Layout"
+msgstr "Макет сетки"
+
+#: inc/customizer.php:695
+msgid "Single Page Layouts"
+msgstr "Макеты одной страницы"
+
+#: inc/customizer.php:710
+msgid "Single Post Layouts"
+msgstr "Макеты одного поста"
+
+#: inc/customizer.php:720 inc/customizer.php:729
+msgid "Default"
+msgstr "По умолчанию"
+
+#: inc/customizer.php:725
+msgid "Container Box"
+msgstr "Контейнерная Коробка"
+
+#: inc/customizer.php:726
+msgid "Here you can change the Width layout."
+msgstr "Здесь вы можете изменить макет ширины."
+
+#: inc/customizer.php:730
+msgid "Container"
+msgstr "Контейнер"
+
+#: inc/customizer.php:731
+msgid "Box Container"
+msgstr "Контейнер"
+
+#: inc/customizer.php:737
+msgid "Button Option"
+msgstr "Вариант кнопки"
+
+#: inc/customizer.php:746
+msgid "Top and Bottom Padding"
+msgstr "Верхняя и нижняя обивка"
+
+#: inc/customizer.php:761
+msgid "Left and Right Padding"
+msgstr "Левая и правая обивка"
+
+#: inc/customizer.php:776
+msgid "Button Border Radius"
+msgstr "Радиус границы кнопки"
+
+#: inc/customizer.php:788
+msgid "Slider Settings"
+msgstr "Настройки слайдера"
+
+#: inc/customizer.php:799
+msgid "Show / Hide slider"
+msgstr "Показать / Скрыть слайдер"
+
+#: inc/customizer.php:811
+msgid "Select Slide Image Page"
+msgstr "Выберите страницу слайд-изображения"
+
+#: inc/customizer.php:823
+msgid "Home Page Slider Overlay"
+msgstr "Наложение слайдера домашней страницы"
+
+#: inc/customizer.php:824
+msgid "This option will add colors over the slider."
+msgstr "Эта опция добавит цвета к ползунку."
+
+#: inc/customizer.php:833
+msgid "Home Page Slider Overlay Color"
+msgstr "Цвет наложения слайдера домашней страницы"
+
+#: inc/customizer.php:835
+msgid ""
+"It will add the color overlay of the slider. To make it transparent, use the "
+"below option."
+msgstr ""
+"Это добавит наложение цвета ползунка. Чтобы сделать его прозрачным, "
+"воспользуйтесь опцией ниже."
+
+#: inc/customizer.php:841 inc/customizer.php:850 inc/customizer.php:1323
+#: inc/customizer.php:1378
+msgid "Left"
+msgstr "Осталось"
+
+#: inc/customizer.php:846
+msgid "Slider Content Alignment"
+msgstr "Выравнивание содержимого слайдера"
+
+#: inc/customizer.php:849 inc/customizer.php:1380
+msgid "Center"
+msgstr "Центр"
+
+#: inc/customizer.php:851 inc/customizer.php:1324 inc/customizer.php:1370
+#: inc/customizer.php:1379
+msgid "Right"
+msgstr "Правильно"
+
+#: inc/customizer.php:861
+msgid "Slider Excerpt length"
+msgstr "Длина выдержки слайдера"
+
+#: inc/customizer.php:878
+msgid "Slider Image Opacity"
+msgstr "Непрозрачность слайдера"
+
+#: inc/customizer.php:901
+msgid "Slider Speed Option"
+msgstr "Опция скорости слайдера"
+
+#: inc/customizer.php:912
+msgid "550"
+msgstr "пятьсот пятьдесят"
+
+#: inc/customizer.php:916
+msgid "Slider Image Height"
+msgstr "Высота изображения слайдера"
+
+#: inc/customizer.php:926
+msgid "Slider Button"
+msgstr "Ползунок"
+
+#: inc/customizer.php:933
+msgid "Product Services"
+msgstr "Сервис продуктов"
+
+#: inc/customizer.php:957
+msgid "Select Category to display Services"
+msgstr "Выберите категорию для отображения услуг"
+
+#: inc/customizer.php:963
+msgid "New Arrivals"
+msgstr "Новые поступления"
+
+#: inc/customizer.php:973
+msgid "Section Title"
+msgstr "Название раздела"
+
+#: inc/customizer.php:983
+msgid "Select Page"
+msgstr "Выберите страницу"
+
+#: inc/customizer.php:990
+msgid "404 Page"
+msgstr "404 Page"
+
+#: inc/customizer.php:999
+msgid "404 Page Title"
+msgstr "404 Заголовок страницы"
+
+#: inc/customizer.php:1009
+msgid "404 Page Content"
+msgstr "Содержание страницы 404"
+
+#: inc/customizer.php:1019
+msgid "404 Page Button"
+msgstr "Кнопка 404 страницы"
+
+#: inc/customizer.php:1026
+msgid "Responsive Setting"
+msgstr "Отзывчивая настройка"
+
+#: inc/customizer.php:1046
+msgid "Slider"
+msgstr "ползунок"
+
+#: inc/customizer.php:1056
+msgid "Scroll To Top"
+msgstr "Пролистать наверх"
+
+#: inc/customizer.php:1066
+msgid "Sidebar"
+msgstr "Боковая панель"
+
+#: inc/customizer.php:1076
+msgid "Preloader"
+msgstr "Preloader"
+
+#: inc/customizer.php:1082
+msgid "Blog Page Settings"
+msgstr "Настройки страницы блога"
+
+#: inc/customizer.php:1092
+msgid "Post Date"
+msgstr "Дата публикации"
+
+#: inc/customizer.php:1102
+msgid "Comments"
+msgstr "Комментарии"
+
+#: inc/customizer.php:1112
+msgid "Author"
+msgstr "автор"
+
+#: inc/customizer.php:1122
+msgid "Single Post Tags"
+msgstr "Метки одного сообщения"
+
+#: inc/customizer.php:1132
+msgid "Single Post Image"
+msgstr "Single Post Image"
+
+#: inc/customizer.php:1142
+msgid "Post Description Length"
+msgstr "Длина сообщения"
+
+#: inc/customizer.php:1123
+msgid "No Content"
+msgstr "Без содержания"
+
+#: inc/customizer.php:1137 inc/customizer.php:1146
+msgid "Excerpt Content"
+msgstr "Содержание выдержки"
+
+#: inc/customizer.php:1147
+msgid "Full Content"
+msgstr "Полный контент"
+
+#: inc/customizer.php:1156
+msgid "Excerpt length"
+msgstr "Фиксированная длина"
+
+#: inc/customizer.php:1168
+msgid "..."
+msgstr "..."
+
+#: inc/customizer.php:1172
+msgid "Post Excerpt Indicator Option"
+msgstr "Опция индикатора после выдержки"
+
+#: inc/customizer.php:1179
+msgid "Read More"
+msgstr "Подробнее"
+
+#: inc/customizer.php:1183
+msgid "Add Button Text"
+msgstr "Добавить текст кнопки"
+
+#: inc/customizer.php:1193
+msgid "Meta Box Separator"
+msgstr "Meta Box Separator"
+
+#: inc/customizer.php:1195
+msgid "Add Meta Separator. e.g.: \"|\", \"/\", etc."
+msgstr "Добавить мета-разделитель. например: \"|\", \"/\" и т. д."
+
+#: inc/customizer.php:1203 inc/customizer.php:1211
+msgid "In Box"
+msgstr "В коробке"
+
+#: inc/customizer.php:1208
+msgid "Display Blog Page Post :"
+msgstr "Показать сообщение на странице блога:"
+
+#: inc/customizer.php:1212
+msgid "Without Box"
+msgstr "Без коробки"
+
+#: inc/customizer.php:1222
+msgid "Pagination in Blog Page"
+msgstr "Пагинация на странице блога"
+
+#: inc/customizer.php:1228
+msgid "No Result Found"
+msgstr "Результатов не найдено"
+
+#: inc/customizer.php:1237
+msgid "No Result Found Title"
+msgstr "Результат не найден Заголовок"
+
+#: inc/customizer.php:1243
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Извините, но ничего не соответствует вашим условиям поиска. Пожалуйста, "
+"попытайтесь снова с другими ключевыми словами."
+
+#: inc/customizer.php:1247
+msgid "No Result Found Content"
+msgstr "Результат не найден"
+
+#: inc/customizer.php:1258
+msgid "No Result search"
+msgstr "Нет результатов поиска"
+
+#: inc/customizer.php:1264
+msgid "Footer Text"
+msgstr "Текст нижнего колонтитула"
+
+#: inc/customizer.php:1275
+msgid "Footer widget area"
+msgstr "Área de widget de pie de página"
+
+#: inc/customizer.php:1277
+msgid ""
+"Select the number of widget areas you want in the footer. After that, go to "
+"Appearance > Widgets and add your widgets."
+msgstr ""
+"Seleccione el número de áreas de widgets que desea en el pie de página. "
+"Después de eso, ve a Apariencia> Widgets y agrega tus widgets."
+
+#: inc/customizer.php:1279
+msgid "One"
+msgstr "Один"
+
+#: inc/customizer.php:1280
+msgid "Two"
+msgstr "Два"
+
+#: inc/customizer.php:1281
+msgid "Three"
+msgstr "Три"
+
+#: inc/customizer.php:1282
+msgid "Four"
+msgstr "четыре"
+
+#: inc/customizer.php:1291
+msgid "Footer Widget Background Color"
+msgstr "Цвет фона нижнего колонтитула"
+
+#: inc/customizer.php:1300
+msgid "Footer Widget Background Image"
+msgstr "Фоновое изображение виджета нижнего колонтитула"
+
+#: inc/customizer.php:1309
+msgid "Copyright Text"
+msgstr "Авторский текст"
+
+#: inc/customizer.php:1315 inc/customizer.php:1325
+msgid "center"
+msgstr "центр"
+
+#: inc/customizer.php:1320
+msgid "Copyright Text Alignment"
+msgstr "Выравнивание текста авторского права"
+
+#: inc/customizer.php:1334
+msgid "Copyright Font Size"
+msgstr "Размер шрифта авторского права"
+
+#: inc/customizer.php:1349
+msgid "Copyright Padding"
+msgstr "Авторское право"
+
+#: inc/customizer.php:1365
+msgid "Show / Hide Scroll To Top"
+msgstr "Показать / Скрыть Прокрутить наверх"
+
+#: inc/customizer.php:1375
+msgid "Scroll Back to Top Position"
+msgstr "Прокрутите назад к верхней позиции"
+
+#: inc/customizer.php:1389
+msgid "Scroll Icon Font Size"
+msgstr "Размер шрифта для значка прокрутки"
+
+#: inc/customizer.php:1480
+msgid "Ecommerce Pro"
+msgstr "Ecommerce Pro"
+
+#: inc/customizer.php:1481
+msgid "Go Pro"
+msgstr "Go Pro"
